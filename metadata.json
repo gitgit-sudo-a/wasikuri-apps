@@ -1,0 +1,5 @@
+{
+  "name": "HTML Live Viewer",
+  "description": "A real-time HTML, CSS, and JavaScript previewer and editor.",
+  "requestFramePermissions": []
+}
